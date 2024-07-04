@@ -15,7 +15,7 @@ This project is a machine learning pipeline designed to predict the "RainTomorro
 
 ## Installation
 
-To set up the project and run it in a Jupyter Notebook, ensure you have the following packages installed:
+Run it on Jupyter Notebook
 
 ## Dataset
 
