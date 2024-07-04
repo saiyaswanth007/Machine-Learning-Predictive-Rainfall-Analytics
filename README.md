@@ -1,5 +1,4 @@
 # Machine-Learning-Predictive-Rainfall-Analytics
-# Rain Prediction Using Machine Learning
 
 ## Project Overview
 
